@@ -10,6 +10,12 @@
 
 2.开启bot
     python main.py
+3.分析调整
+
+- ![avatar](./gamma0.89_lr0.001_useful__pool_30000.png)
+
+
+
 
 
 
@@ -18,4 +24,4 @@
     自行在api中get_reward()调整奖励函数
     这些代码作者没时间clean，所以请自己调试;
     mail:370025263@qq.com
-    
+
