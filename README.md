@@ -10,6 +10,8 @@
 
 2.开启bot
     python main.py
+    
+    
 3.分析调整
 
 - ![avatar](./gamma0.89_lr0.001_useful__pool_30000.png)
